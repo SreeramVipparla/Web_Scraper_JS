@@ -1,0 +1,1290 @@
+[
+    {
+        "Batsman": "Ruturaj Gaikwad ",
+        "Matches": 16,
+        "Runs": 635,
+        "Balls": 466,
+        "Fours": 64,
+        "Sixes": 23
+    },
+    {
+        "Batsman": "Faf du Plessis ",
+        "Matches": 16,
+        "Runs": 633,
+        "Balls": 458,
+        "Fours": 60,
+        "Sixes": 23
+    },
+    {
+        "Batsman": "Robin Uthappa ",
+        "Matches": 4,
+        "Runs": 115,
+        "Balls": 84,
+        "Fours": 8,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Moeen Ali ",
+        "Matches": 15,
+        "Runs": 357,
+        "Balls": 260,
+        "Fours": 31,
+        "Sixes": 19
+    },
+    {
+        "Batsman": "Shubman Gill ",
+        "Matches": 17,
+        "Runs": 478,
+        "Balls": 402,
+        "Fours": 50,
+        "Sixes": 12
+    },
+    {
+        "Batsman": "Venkatesh Iyer ",
+        "Matches": 10,
+        "Runs": 370,
+        "Balls": 288,
+        "Fours": 37,
+        "Sixes": 14
+    },
+    {
+        "Batsman": "Nitish Rana ",
+        "Matches": 16,
+        "Runs": 383,
+        "Balls": 314,
+        "Fours": 34,
+        "Sixes": 17
+    },
+    {
+        "Batsman": "Sunil Narine ",
+        "Matches": 10,
+        "Runs": 62,
+        "Balls": 47,
+        "Fours": 3,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Eoin Morgan (c)",
+        "Matches": 16,
+        "Runs": 133,
+        "Balls": 139,
+        "Fours": 8,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Dinesh Karthik †",
+        "Matches": 15,
+        "Runs": 223,
+        "Balls": 170,
+        "Fours": 22,
+        "Sixes": 7
+    },
+    {
+        "Batsman": "Shakib Al Hasan ",
+        "Matches": 6,
+        "Runs": 47,
+        "Balls": 48,
+        "Fours": 3,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Rahul Tripathi ",
+        "Matches": 16,
+        "Runs": 397,
+        "Balls": 283,
+        "Fours": 41,
+        "Sixes": 11
+    },
+    {
+        "Batsman": "Lockie Ferguson ",
+        "Matches": 3,
+        "Runs": 18,
+        "Balls": 11,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Shivam Mavi ",
+        "Matches": 2,
+        "Runs": 25,
+        "Balls": 20,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Varun Chakravarthy ",
+        "Matches": 3,
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Prithvi Shaw ",
+        "Matches": 15,
+        "Runs": 479,
+        "Balls": 301,
+        "Fours": 56,
+        "Sixes": 18
+    },
+    {
+        "Batsman": "Shikhar Dhawan ",
+        "Matches": 16,
+        "Runs": 587,
+        "Balls": 471,
+        "Fours": 63,
+        "Sixes": 16
+    },
+    {
+        "Batsman": "Marcus Stoinis ",
+        "Matches": 7,
+        "Runs": 89,
+        "Balls": 72,
+        "Fours": 11,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Shreyas Iyer ",
+        "Matches": 8,
+        "Runs": 175,
+        "Balls": 171,
+        "Fours": 7,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Rishabh Pant (c)†",
+        "Matches": 16,
+        "Runs": 419,
+        "Balls": 326,
+        "Fours": 42,
+        "Sixes": 10
+    },
+    {
+        "Batsman": "Shimron Hetmyer ",
+        "Matches": 13,
+        "Runs": 242,
+        "Balls": 144,
+        "Fours": 19,
+        "Sixes": 12
+    },
+    {
+        "Batsman": "Axar Patel ",
+        "Matches": 6,
+        "Runs": 40,
+        "Balls": 46,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Evin Lewis ",
+        "Matches": 5,
+        "Runs": 151,
+        "Balls": 93,
+        "Fours": 18,
+        "Sixes": 7
+    },
+    {
+        "Batsman": "Yashasvi Jaiswal ",
+        "Matches": 10,
+        "Runs": 249,
+        "Balls": 168,
+        "Fours": 32,
+        "Sixes": 10
+    },
+    {
+        "Batsman": "Sanju Samson (c)†",
+        "Matches": 14,
+        "Runs": 484,
+        "Balls": 354,
+        "Fours": 45,
+        "Sixes": 17
+    },
+    {
+        "Batsman": "Mahipal Lomror ",
+        "Matches": 4,
+        "Runs": 94,
+        "Balls": 73,
+        "Fours": 3,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Liam Livingstone ",
+        "Matches": 5,
+        "Runs": 42,
+        "Balls": 41,
+        "Fours": 3,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Rahul Tewatia ",
+        "Matches": 11,
+        "Runs": 155,
+        "Balls": 147,
+        "Fours": 11,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Riyan Parag ",
+        "Matches": 10,
+        "Runs": 93,
+        "Balls": 83,
+        "Fours": 6,
+        "Sixes": 4
+    },
+    {
+        "Batsman": "Chris Morris ",
+        "Matches": 7,
+        "Runs": 67,
+        "Balls": 49,
+        "Fours": 2,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Chetan Sakariya ",
+        "Matches": 6,
+        "Runs": 16,
+        "Balls": 25,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Kartik Tyagi ",
+        "Matches": 2,
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Virat Kohli (c)",
+        "Matches": 15,
+        "Runs": 405,
+        "Balls": 339,
+        "Fours": 43,
+        "Sixes": 9
+    },
+    {
+        "Batsman": "Devdutt Padikkal ",
+        "Matches": 14,
+        "Runs": 411,
+        "Balls": 328,
+        "Fours": 44,
+        "Sixes": 14
+    },
+    {
+        "Batsman": "Srikar Bharat †",
+        "Matches": 7,
+        "Runs": 191,
+        "Balls": 156,
+        "Fours": 10,
+        "Sixes": 8
+    },
+    {
+        "Batsman": "Glenn Maxwell ",
+        "Matches": 14,
+        "Runs": 513,
+        "Balls": 356,
+        "Fours": 48,
+        "Sixes": 21
+    },
+    {
+        "Batsman": "AB de Villiers ",
+        "Matches": 8,
+        "Runs": 106,
+        "Balls": 85,
+        "Fours": 7,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Ambati Rayudu ",
+        "Matches": 13,
+        "Runs": 257,
+        "Balls": 170,
+        "Fours": 16,
+        "Sixes": 17
+    },
+    {
+        "Batsman": "MS Dhoni (c)†",
+        "Matches": 11,
+        "Runs": 114,
+        "Balls": 107,
+        "Fours": 12,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Ravindra Jadeja ",
+        "Matches": 12,
+        "Runs": 227,
+        "Balls": 156,
+        "Fours": 19,
+        "Sixes": 9
+    },
+    {
+        "Batsman": "Dwayne Bravo ",
+        "Matches": 3,
+        "Runs": 47,
+        "Balls": 18,
+        "Fours": 3,
+        "Sixes": 4
+    },
+    {
+        "Batsman": "KL Rahul (c)†",
+        "Matches": 12,
+        "Runs": 535,
+        "Balls": 394,
+        "Fours": 41,
+        "Sixes": 25
+    },
+    {
+        "Batsman": "Mayank Agarwal ",
+        "Matches": 11,
+        "Runs": 342,
+        "Balls": 256,
+        "Fours": 34,
+        "Sixes": 14
+    },
+    {
+        "Batsman": "Sarfaraz Khan ",
+        "Matches": 2,
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "M Shahrukh Khan ",
+        "Matches": 10,
+        "Runs": 153,
+        "Balls": 114,
+        "Fours": 9,
+        "Sixes": 10
+    },
+    {
+        "Batsman": "Aiden Markram ",
+        "Matches": 6,
+        "Runs": 146,
+        "Balls": 119,
+        "Fours": 12,
+        "Sixes": 4
+    },
+    {
+        "Batsman": "Moises Henriques ",
+        "Matches": 4,
+        "Runs": 31,
+        "Balls": 32,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Jason Roy ",
+        "Matches": 5,
+        "Runs": 150,
+        "Balls": 121,
+        "Fours": 21,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Wriddhiman Saha †",
+        "Matches": 9,
+        "Runs": 131,
+        "Balls": 140,
+        "Fours": 7,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Kane Williamson (c)",
+        "Matches": 7,
+        "Runs": 158,
+        "Balls": 155,
+        "Fours": 17,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Priyam Garg ",
+        "Matches": 5,
+        "Runs": 72,
+        "Balls": 74,
+        "Fours": 2,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Abhishek Sharma ",
+        "Matches": 7,
+        "Runs": 98,
+        "Balls": 75,
+        "Fours": 7,
+        "Sixes": 4
+    },
+    {
+        "Batsman": "Abdul Samad ",
+        "Matches": 10,
+        "Runs": 111,
+        "Balls": 87,
+        "Fours": 4,
+        "Sixes": 8
+    },
+    {
+        "Batsman": "Jason Holder ",
+        "Matches": 7,
+        "Runs": 85,
+        "Balls": 72,
+        "Fours": 2,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Rashid Khan ",
+        "Matches": 10,
+        "Runs": 83,
+        "Balls": 69,
+        "Fours": 9,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Bhuvneshwar Kumar ",
+        "Matches": 7,
+        "Runs": 34,
+        "Balls": 30,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Siddarth Kaul ",
+        "Matches": 2,
+        "Runs": 8,
+        "Balls": 8,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "David Warner (c)",
+        "Matches": 6,
+        "Runs": 193,
+        "Balls": 175,
+        "Fours": 15,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Jonny Bairstow †",
+        "Matches": 5,
+        "Runs": 181,
+        "Balls": 122,
+        "Fours": 14,
+        "Sixes": 12
+    },
+    {
+        "Batsman": "Manish Pandey ",
+        "Matches": 7,
+        "Runs": 223,
+        "Balls": 195,
+        "Fours": 14,
+        "Sixes": 8
+    },
+    {
+        "Batsman": "Kane Williamson ",
+        "Matches": 3,
+        "Runs": 108,
+        "Balls": 80,
+        "Fours": 12,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Kedar Jadhav ",
+        "Matches": 5,
+        "Runs": 55,
+        "Balls": 52,
+        "Fours": 2,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Suresh Raina ",
+        "Matches": 11,
+        "Runs": 160,
+        "Balls": 128,
+        "Fours": 13,
+        "Sixes": 9
+    },
+    {
+        "Batsman": "Shardul Thakur ",
+        "Matches": 4,
+        "Runs": 5,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Quinton de Kock †",
+        "Matches": 11,
+        "Runs": 297,
+        "Balls": 256,
+        "Fours": 29,
+        "Sixes": 7
+    },
+    {
+        "Batsman": "Anmolpreet Singh ",
+        "Matches": 1,
+        "Runs": 16,
+        "Balls": 14,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Suryakumar Yadav ",
+        "Matches": 14,
+        "Runs": 317,
+        "Balls": 221,
+        "Fours": 40,
+        "Sixes": 10
+    },
+    {
+        "Batsman": "Ishan Kishan ",
+        "Matches": 7,
+        "Runs": 79,
+        "Balls": 104,
+        "Fours": 3,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Saurabh Tiwary ",
+        "Matches": 4,
+        "Runs": 115,
+        "Balls": 97,
+        "Fours": 10,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Kieron Pollard (c)",
+        "Matches": 1,
+        "Runs": 15,
+        "Balls": 14,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Krunal Pandya ",
+        "Matches": 12,
+        "Runs": 143,
+        "Balls": 123,
+        "Fours": 10,
+        "Sixes": 6
+    },
+    {
+        "Batsman": "Adam Milne ",
+        "Matches": 3,
+        "Runs": 16,
+        "Balls": 17,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Rahul Chahar ",
+        "Matches": 5,
+        "Runs": 14,
+        "Balls": 15,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Jasprit Bumrah ",
+        "Matches": 7,
+        "Runs": 16,
+        "Balls": 17,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Washington Sundar ",
+        "Matches": 4,
+        "Runs": 31,
+        "Balls": 47,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "AB de Villiers †",
+        "Matches": 6,
+        "Runs": 207,
+        "Balls": 126,
+        "Fours": 16,
+        "Sixes": 10
+    },
+    {
+        "Batsman": "Dan Christian ",
+        "Matches": 7,
+        "Runs": 14,
+        "Balls": 24,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Kyle Jamieson ",
+        "Matches": 7,
+        "Runs": 65,
+        "Balls": 55,
+        "Fours": 5,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Harshal Patel ",
+        "Matches": 8,
+        "Runs": 59,
+        "Balls": 46,
+        "Fours": 6,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Navdeep Saini ",
+        "Matches": 1,
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Yuzvendra Chahal ",
+        "Matches": 2,
+        "Runs": 10,
+        "Balls": 27,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Mohammed Siraj ",
+        "Matches": 4,
+        "Runs": 20,
+        "Balls": 26,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Chris Gayle ",
+        "Matches": 10,
+        "Runs": 193,
+        "Balls": 154,
+        "Fours": 21,
+        "Sixes": 8
+    },
+    {
+        "Batsman": "Deepak Hooda ",
+        "Matches": 11,
+        "Runs": 160,
+        "Balls": 123,
+        "Fours": 9,
+        "Sixes": 9
+    },
+    {
+        "Batsman": "Nicholas Pooran ",
+        "Matches": 11,
+        "Runs": 85,
+        "Balls": 76,
+        "Fours": 3,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Jhye Richardson ",
+        "Matches": 2,
+        "Runs": 15,
+        "Balls": 24,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Murugan Ashwin ",
+        "Matches": 2,
+        "Runs": 15,
+        "Balls": 24,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Mohammed Shami ",
+        "Matches": 4,
+        "Runs": 13,
+        "Balls": 17,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Riley Meredith ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Sam Curran ",
+        "Matches": 4,
+        "Runs": 56,
+        "Balls": 29,
+        "Fours": 5,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Mandeep Singh ",
+        "Matches": 1,
+        "Runs": 15,
+        "Balls": 14,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Harpreet Brar ",
+        "Matches": 5,
+        "Runs": 64,
+        "Balls": 58,
+        "Fours": 3,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Nathan Ellis ",
+        "Matches": 2,
+        "Runs": 18,
+        "Balls": 16,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Rohit Sharma (c)",
+        "Matches": 13,
+        "Runs": 381,
+        "Balls": 299,
+        "Fours": 33,
+        "Sixes": 14
+    },
+    {
+        "Batsman": "Hardik Pandya ",
+        "Matches": 11,
+        "Runs": 127,
+        "Balls": 112,
+        "Fours": 11,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Kieron Pollard ",
+        "Matches": 12,
+        "Runs": 230,
+        "Balls": 151,
+        "Fours": 15,
+        "Sixes": 15
+    },
+    {
+        "Batsman": "Shivam Dube ",
+        "Matches": 9,
+        "Runs": 230,
+        "Balls": 193,
+        "Fours": 18,
+        "Sixes": 10
+    },
+    {
+        "Batsman": "Glenn Phillips ",
+        "Matches": 3,
+        "Runs": 26,
+        "Balls": 33,
+        "Fours": 1,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "David Miller ",
+        "Matches": 8,
+        "Runs": 124,
+        "Balls": 113,
+        "Fours": 11,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Shreyas Gopal ",
+        "Matches": 2,
+        "Runs": 7,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Kuldip Yadav ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Mustafizur Rahman ",
+        "Matches": 5,
+        "Runs": 8,
+        "Balls": 14,
+        "Fours": 0,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Ishan Kishan †",
+        "Matches": 3,
+        "Runs": 162,
+        "Balls": 76,
+        "Fours": 18,
+        "Sixes": 8
+    },
+    {
+        "Batsman": "Shahbaz Ahmed ",
+        "Matches": 7,
+        "Runs": 59,
+        "Balls": 53,
+        "Fours": 4,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "George Garton ",
+        "Matches": 3,
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Tom Curran ",
+        "Matches": 2,
+        "Runs": 21,
+        "Balls": 17,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "James Neesham ",
+        "Matches": 2,
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Nathan Coulter-Nile ",
+        "Matches": 2,
+        "Runs": 4,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Piyush Chawla ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Trent Boult ",
+        "Matches": 4,
+        "Runs": 1,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Manish Pandey (c)",
+        "Matches": 1,
+        "Runs": 69,
+        "Balls": 41,
+        "Fours": 7,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Mohammad Nabi ",
+        "Matches": 3,
+        "Runs": 34,
+        "Balls": 20,
+        "Fours": 3,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Ripal Patel ",
+        "Matches": 2,
+        "Runs": 25,
+        "Balls": 27,
+        "Fours": 3,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Andre Russell ",
+        "Matches": 9,
+        "Runs": 183,
+        "Balls": 120,
+        "Fours": 14,
+        "Sixes": 14
+    },
+    {
+        "Batsman": "Pat Cummins ",
+        "Matches": 5,
+        "Runs": 93,
+        "Balls": 56,
+        "Fours": 5,
+        "Sixes": 8
+    },
+    {
+        "Batsman": "Prasidh Krishna ",
+        "Matches": 2,
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Jos Buttler ",
+        "Matches": 7,
+        "Runs": 254,
+        "Balls": 166,
+        "Fours": 27,
+        "Sixes": 13
+    },
+    {
+        "Batsman": "Prabhsimran Singh †",
+        "Matches": 2,
+        "Runs": 19,
+        "Balls": 23,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Mayank Agarwal (c)",
+        "Matches": 1,
+        "Runs": 99,
+        "Balls": 58,
+        "Fours": 8,
+        "Sixes": 4
+    },
+    {
+        "Batsman": "Dawid Malan ",
+        "Matches": 1,
+        "Runs": 26,
+        "Balls": 26,
+        "Fours": 1,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Chris Jordan ",
+        "Matches": 2,
+        "Runs": 32,
+        "Balls": 21,
+        "Fours": 1,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Steven Smith ",
+        "Matches": 7,
+        "Runs": 152,
+        "Balls": 135,
+        "Fours": 13,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Jayant Yadav ",
+        "Matches": 3,
+        "Runs": 34,
+        "Balls": 26,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Ravichandran Ashwin ",
+        "Matches": 5,
+        "Runs": 44,
+        "Balls": 42,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Deepak Chahar ",
+        "Matches": 2,
+        "Runs": 1,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Manan Vohra ",
+        "Matches": 4,
+        "Runs": 42,
+        "Balls": 39,
+        "Fours": 5,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "Jaydev Unadkat ",
+        "Matches": 3,
+        "Runs": 41,
+        "Balls": 29,
+        "Fours": 3,
+        "Sixes": 2
+    },
+    {
+        "Batsman": "David Warner ",
+        "Matches": 2,
+        "Runs": 2,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Kagiso Rabada ",
+        "Matches": 3,
+        "Runs": 13,
+        "Balls": 6,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Tim Seifert ",
+        "Matches": 1,
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Fabian Allen ",
+        "Matches": 3,
+        "Runs": 6,
+        "Balls": 12,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Lalit Yadav ",
+        "Matches": 5,
+        "Runs": 68,
+        "Balls": 73,
+        "Fours": 7,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Tabraiz Shamsi ",
+        "Matches": 1,
+        "Runs": 2,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Sachin Baby ",
+        "Matches": 1,
+        "Runs": 7,
+        "Balls": 17,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Wanindu Hasaranga de Silva ",
+        "Matches": 2,
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Avesh Khan ",
+        "Matches": 1,
+        "Runs": 5,
+        "Balls": 3,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Tim Southee ",
+        "Matches": 1,
+        "Runs": 3,
+        "Balls": 5,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Anuj Rawat ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Ajinkya Rahane ",
+        "Matches": 1,
+        "Runs": 8,
+        "Balls": 8,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Chris Woakes ",
+        "Matches": 1,
+        "Runs": 15,
+        "Balls": 11,
+        "Fours": 2,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Rajat Patidar ",
+        "Matches": 4,
+        "Runs": 71,
+        "Balls": 62,
+        "Fours": 3,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Harbhajan Singh ",
+        "Matches": 2,
+        "Runs": 4,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Virat Singh ",
+        "Matches": 2,
+        "Runs": 15,
+        "Balls": 26,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Vijay Shankar ",
+        "Matches": 5,
+        "Runs": 58,
+        "Balls": 52,
+        "Fours": 1,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Mujeeb Ur Rahman ",
+        "Matches": 1,
+        "Runs": 1,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Khaleel Ahmed ",
+        "Matches": 1,
+        "Runs": 1,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Arshdeep Singh ",
+        "Matches": 2,
+        "Runs": 2,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Jonny Bairstow ",
+        "Matches": 2,
+        "Runs": 67,
+        "Balls": 53,
+        "Fours": 6,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Shahbaz Nadeem ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 1,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "T Natarajan ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Daniel Sams ",
+        "Matches": 2,
+        "Runs": 6,
+        "Balls": 6,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Ravi Bishnoi ",
+        "Matches": 1,
+        "Runs": 1,
+        "Balls": 4,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "KL Rahul (c)",
+        "Matches": 1,
+        "Runs": 91,
+        "Balls": 57,
+        "Fours": 7,
+        "Sixes": 5
+    },
+    {
+        "Batsman": "Tim David ",
+        "Matches": 1,
+        "Runs": 1,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Ben Stokes ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Kamlesh Nagarkoti ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 2,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Jagadeesha Suchith ",
+        "Matches": 1,
+        "Runs": 14,
+        "Balls": 6,
+        "Fours": 2,
+        "Sixes": 1
+    },
+    {
+        "Batsman": "Sandeep Sharma ",
+        "Matches": 2,
+        "Runs": 8,
+        "Balls": 7,
+        "Fours": 1,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Marco Jansen ",
+        "Matches": 2,
+        "Runs": 0,
+        "Balls": 3,
+        "Fours": 0,
+        "Sixes": 0
+    },
+    {
+        "Batsman": "Chris Lynn ",
+        "Matches": 1,
+        "Runs": 49,
+        "Balls": 35,
+        "Fours": 4,
+        "Sixes": 3
+    },
+    {
+        "Batsman": "Dhawal Kulkarni ",
+        "Matches": 1,
+        "Runs": 0,
+        "Balls": 0,
+        "Fours": 0,
+        "Sixes": 0
+    }
+]
