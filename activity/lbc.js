@@ -5,6 +5,7 @@ const link =
   "https://www.espncricinfo.com/series/ipl-2021-1249214/chennai-super-kings-vs-punjab-kings-53rd-match-1254094/ball-by-ball-commentary";
 
 request(link, cb);
+
 function cb(error, response, html) {
   if (error) {
     console.log("Some error while requesting..");
