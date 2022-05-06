@@ -9,6 +9,7 @@ function cb(error, data) {  // callback
     } else {
         console.log(data+"");
     }
+    
 }
 
 console.log("After");
