@@ -11,6 +11,7 @@ function cb(error, response, html) {
     } else {
         const dom = new JSDOM(html);  // dom
         const document = dom.window.document;
+        
         let contentElem = document.querySelector("._3f330ce9");
         let content = contentElem.textContent;
         console.log(content);
